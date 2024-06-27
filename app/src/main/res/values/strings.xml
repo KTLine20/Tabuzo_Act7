@@ -1,0 +1,26 @@
+
+<resources>
+    <string name="app_name">WOOF</string>
+    <string name="dog_name_1">KODA</string>
+    <string name="dog_name_2">LOLA</string>
+    <string name="dog_name_3">FRANKIW</string>
+    <string name="dog_name_4">NOX</string>
+    <string name="dog_name_5">FAYE</string>
+    <string name="dog_name_6">BELLA</string>
+    <string name="dog_name_7">MOANA</string>
+    <string name="dog_name_8">TZEITEL</string>
+    <string name="dog_name_9">LEROY</string>
+    <string name="dog_description_1">Eating treats on the terrace</string>
+    <string name="dog_description_2">Barking at Daddy</string>
+    <string name="dog_description_3">Stealing socks</string>
+    <string name="dog_description_4">Meeting new animals</string>
+    <string name="dog_description_5">Digging in the garden</string>
+    <string name="dog_description_6">Chasing sea foam</string>
+    <string name="dog_description_7">Bothering her paw-rents</string>
+    <string name="dog_description_8">Sunbathing</string>
+    <string name="dog_description_9">Sleeping in dangerous places</string>
+    <string name="about">About:</string>
+    <string name="years_old">%d years old</string>
+    <string name="expand_button_content_description">See more or less information about a dog.</string>
+</resources>
+
